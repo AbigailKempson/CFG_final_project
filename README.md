@@ -46,6 +46,6 @@ This is an Excel Spreadsheet containing details of 2019 rocket launch emissions 
 
 ## Further Reading / Useful Links
 
-*[Space debris: is it time to start taking care of the cosmos?](https://www.iberdrola.com/sustainability/space-debris)
-*[SpaceX-Reusable Rockets](https://www.spacex.com/reusability/)
-*[5 Most Important Parts Of A Rocket](https://www.rankred.com/parts-of-a-rocket/)
+* [Space debris: is it time to start taking care of the cosmos?](https://www.iberdrola.com/sustainability/space-debris)
+* [SpaceX-Reusable Rockets](https://www.spacex.com/reusability/)
+* [5 Most Important Parts Of A Rocket](https://www.rankred.com/parts-of-a-rocket/)
